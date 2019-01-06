@@ -1,0 +1,17 @@
+.mybutton {
+    width: 200px;
+    min-width:200px;
+    height: 100px;
+    min-height: 100px;
+    background-color: grey;
+    color: black;
+}
+
+#buttons {
+    height: 120px;
+    min-height: 120px;
+    flex-direction: row;
+    margin: 10px;
+    background-color: orange;
+    justify-content: center;
+}
